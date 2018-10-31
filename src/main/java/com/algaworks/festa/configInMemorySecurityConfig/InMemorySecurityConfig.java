@@ -1,4 +1,4 @@
-package com.algaworks.festa.configInMemorySecurityConfig;
+/*package com.algaworks.festa.configInMemorySecurityConfig;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
@@ -16,3 +16,4 @@ public class InMemorySecurityConfig {
 	}
 
 }
+*/
